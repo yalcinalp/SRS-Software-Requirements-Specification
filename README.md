@@ -1,5 +1,5 @@
 # SRS-Software-Requirements-Specification
-SRS documentation for FarmBot software (An Open-Source CNC Farming Product) 
+SRS documentation for the FarmBot software (An Open-Source CNC Farming Product) 
 
 This is our SRS (Software Requirements Specification) documentation project for our Software Engineering Class with my friend Erencan Ceyhan. It is based on the ISO/IEC/IEEE Standard 29148-2018
 
