@@ -9,6 +9,8 @@ https://farm.bot 
 
 This project gave us a chance to improve our skills on Requirement Engineering and also get familiar with the <ins>UML diagrams</ins> and representations in software engineering   
 
+# Some of the UML Diagrams:
+
 # Logical Database Requirements:
 
 ![image](https://github.com/yalcinalp/SRS-Software-Requirements-Specification/assets/95969634/c229642e-c709-433f-88d3-7ebcdc30c348)
