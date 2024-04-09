@@ -7,7 +7,7 @@ This is our SRS (Software Requirements Specification) documentation project for 
 SRS focuses on the Farmbot software: 
 https://farm.bot 
 
-This project gave us a chance to improve our skills on Requirement Engineering and also get familiar with the UML diagrams and representations in software engineering   
+This project gave us a chance to improve our skills on Requirement Engineering and also get familiar with the <ins>UML diagrams</ins> and representations in software engineering   
 
 # Logical Database Requirements:
 
